@@ -10,5 +10,5 @@
 # Project 2: Employee Attrition Analysis with R Shiny Web App
 * Created an interactive dashboard using IBM employee data set from Kaggle.
 * Guided by experienced Business Analyst to refrain from hard-coding.
-* Made reactive visualisations that react when input is changed.
+* Made reactive visualisations that react upon input changes.
 * Ensured simple yet visually pleasing UI for users' ease of navigating through the dashboard.
