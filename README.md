@@ -14,6 +14,6 @@
 * Ensured simple yet visually pleasing UI for users' ease of navigating through the dashboard.
 
 # Project 3: Predictions on Life Expectancy in R
-* Similar to Project 1 except that it was done in R with different ML algorithms used and smaller data set.
+* Similar to Project 1 except that it was done in R with different ML algorithms used on a smaller data set.
 * Followed the data science workflow, CRISP-DM for the completion of the project.
 * Used RapidMiner in addition to R's ML packages to perform quick ML modelling on the data set.
