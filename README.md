@@ -21,4 +21,4 @@
 * Followed the data science workflow, CRISP-DM for the completion of the project.
 * Used RapidMiner in addition to R's ML packages to perform quick ML modelling on the data set.
 
-![]([https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/EAS%20dashboard.PNG](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/RapidMiner.png))
+![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/RapidMiner.png)
