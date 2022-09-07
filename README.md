@@ -7,6 +7,9 @@
 * Performed visualisations and EDA using Seaborn and Matplotlib.
 * Performed predictions using 5 ML models with Scikit learn.
 
+![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/DA%20heatmap.png)
+![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/S%20shaped%20scatterplot.png)
+
 # Project 2: Employee Attrition Analysis with R Shiny Web App
 * Created an interactive dashboard using IBM employee data set from Kaggle.
 * Guided by experienced Business Analyst to refrain from hard-coding.
