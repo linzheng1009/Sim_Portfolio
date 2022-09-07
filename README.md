@@ -8,11 +8,13 @@
 ![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/DA%20heatmap.png)
 ![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/S%20shaped%20scatterplot.png)
 
-# Project 2: Employee Attrition Analysis with R Shiny Web App
+# [Project 2: Employee Attrition Analysis with R Shiny Web App](https://github.com/linzheng1009/Employee-Attrition)
 * Created an interactive dashboard using IBM employee data set from Kaggle.
 * Guided by experienced Business Analyst to refrain from hard-coding.
 * Made reactive visualisations that react upon input changes.
 * Ensured simple yet visually pleasing UI for users' ease of navigating through the dashboard.
+
+![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/EAS%20dashboard.PNG)
 
 # Project 3: Predictions on Life Expectancy in R
 * Similar to Project 1 except that it was done in R with different ML algorithms used on a smaller data set.
