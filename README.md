@@ -16,7 +16,9 @@
 
 ![](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/EAS%20dashboard.PNG)
 
-# Project 3: Predictions on Life Expectancy in R
+# [Project 3: Predictions on Life Expectancy in R](https://github.com/linzheng1009/Predictions-on-Life-Expectancy)
 * Similar to Project 1 except that it was done in R with different ML algorithms used on a smaller data set.
 * Followed the data science workflow, CRISP-DM for the completion of the project.
 * Used RapidMiner in addition to R's ML packages to perform quick ML modelling on the data set.
+
+![]([https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/EAS%20dashboard.PNG](https://github.com/linzheng1009/Sim_Portfolio/blob/main/images/RapidMiner.png))
