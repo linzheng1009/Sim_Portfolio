@@ -1,6 +1,4 @@
-# Sim's Data Science Portfolio
-
-# Project 1: Life Expectancy and Happiness Indicators in Python
+# [Project 1: Life Expectancy and Happiness Indicators in Python](https://github.com/linzheng1009/Life-Expectancy-and-Happiness-Indicators)
 * Made predictions about life expectancy of a person based on the Happiness Indicators using some ML algorithms.
 * Pre-processed multiple data sets retrieved from Kaggle using Pandas and NumPy.
 * Presented descriptive statistics with improved visuals using SweetViz visualyzer.
