@@ -24,3 +24,12 @@ Sim's Data Science Portfolio
 * Used RapidMiner in addition to R's ML packages to perform quick ML modelling on the data set.
 
 ![](/images/RapidMiner.png)
+
+# Project 4: Revenue Analytics for a F&B Firm
+* Participated in a small-scaled "Data Challenge" hosted by a Singaporean training academy.
+* Participants were given actual F&B data set to derive meaningful insights to be presented to the panel of judges by the end of September 2022.
+* Pre-processed the enterprise data set with Python using Pandas and Numpy.
+* Performed EDA on the enterprise data set using Tableau.
+* Considering the practicality if real value can be generated from leveraging ML on these data.
+
+![](/images/fnbdashboard.PNG)
