@@ -1,4 +1,5 @@
 Sim's Data Science Portfolio
+#### These are just an overview of my projects. For further details, kindly click the hyperlinked headers of each project to assess my GitHub directories. (Project 4 is currently not available on my GitHub as it contains confidential enterprise data)
 
 # [Project 1: Life Expectancy and Happiness Indicators in Python](https://github.com/linzheng1009/Life-Expectancy-and-Happiness-Indicators)
 * Made predictions about life expectancy of a person based on the Happiness Indicators using some ML algorithms.
