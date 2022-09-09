@@ -1,5 +1,5 @@
 ### Sim's Data Science Portfolio
-These are just an overview of my projects. For further details, kindly click the hyperlinked headers of each project to assess my GitHub. (Project 4 is currently not available on my GitHub as it contains confidential enterprise data)
+These are just an overview of my projects. For further details, kindly click the hyperlinked headers of each project to assess my GitHub (Project 4 is currently not available on my GitHub as it contains confidential enterprise data).
 
 # [Project 1: Life Expectancy and Happiness Indicators in Python](https://github.com/linzheng1009/Life-Expectancy-and-Happiness-Indicators)
 * Made predictions about life expectancy of a person based on the Happiness Indicators using some ML algorithms.
@@ -13,7 +13,7 @@ These are just an overview of my projects. For further details, kindly click the
 
 # [Project 2: Employee Attrition Analysis with R Shiny Web App](https://github.com/linzheng1009/Employee-Attrition)
 * Created an interactive dashboard using IBM employee data set from Kaggle.
-* Guided by experienced Business Analyst to refrain from hard-coding.
+* Guided by coursemates with programming experience with constructive feedbacks.
 * Made reactive visualisations that react upon input changes.
 * Ensured simple yet visually pleasing UI for users' ease of navigating through the dashboard.
 
