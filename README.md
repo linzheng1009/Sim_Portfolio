@@ -8,7 +8,7 @@ Sim's Data Science Portfolio
 * Performed predictions using 5 ML models with Scikit learn.
 
 ![](/images/DAheatmap.png)
-![](/images/Sshaped%20scatterplot.png)
+![](/images/sshapedscatterplot.png)
 
 # [Project 2: Employee Attrition Analysis with R Shiny Web App](https://github.com/linzheng1009/Employee-Attrition)
 * Created an interactive dashboard using IBM employee data set from Kaggle.
